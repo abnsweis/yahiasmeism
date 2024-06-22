@@ -20,7 +20,7 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🏆 Achievements
-- 🥇 Completed the 'Alf Mobarmij' project training
+- 🥇 Completed the '1000 Programmer' project training
 - 🌍 Got my first job opportunity in Turkey
 
 ## 📫 How to reach me
@@ -48,7 +48,6 @@
 </p>
 
 ### ✍️ Random Dev Quote
-<p align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-</p>
+
 
