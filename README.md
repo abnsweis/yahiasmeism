@@ -22,17 +22,6 @@ I'm a passionate Flutter developer and Laravel enthusiast with a keen interest i
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-## 🔥 My Projects
-### 1. Project Name
-Description: Brief description of the project.
-- [Repository](link-to-repo)
-- [Live Demo](link-to-live-demo)
-
-### 2. Another Project
-Description: Brief description of the project.
-- [Repository](link-to-repo)
-- [Live Demo](link-to-live-demo)
-
 ## 🏆 Achievements
 - 🥇 Completed the 'Alf Mobarmij' project training
 - 🌍 Got my first job opportunity in Turkey
@@ -50,12 +39,5 @@ I write about bird health and more on my blog [Bird Care Corner](link-to-blog).
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yahiasmeism.visitor-badge" alt="Visitors" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/yahiasmeism/yahiasmeism/raw/main/wave.svg" width="100%" alt="Wave" />
-</p>
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let's create something amazing together!
