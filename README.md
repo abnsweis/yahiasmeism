@@ -1,7 +1,7 @@
 <!-- Made By Yahya Semsem -->
 <div align="center">
    <a href="https://github.com/yahiasmeism">
-   <img width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/action2.gif" href="https://github.com/yahiasmeism" /></a>
+   <img width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Ibrahim Al Sweis/ouput/action2.gif" href="https://github.com/yahiasmeism" /></a>
 </div>
 <div align="center">
    <a href="https://github.com/yahiasmeism">
