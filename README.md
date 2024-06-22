@@ -3,9 +3,6 @@
          height="45"
          width="45" /> I'm Yahya Semsem</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahiasmeism&label=Views&color=blue&style=plastic&style=for-the-badge" alt="yahiasmeism" /> </p>
-
-![Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+my+GitHub+Profile)
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
@@ -15,7 +12,6 @@
 - 🤔 I’m looking for help with advanced Flutter animations and Laravel best practices.
 - 💬 Ask me about Flutter, Laravel, or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I love birds and write a blog about bird health.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yahiasmeism) [![Twitter](https://img.shields.io/twitter/follow/yahiasmeism?logo=Twitter&style=for-the-badge)](https://twitter.com/yahiasmeism) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yahiasmeism)
@@ -52,9 +48,7 @@
 </p>
 
 ### ✍️ Random Dev Quote
+<p align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=yahiasmeism&icon=0&color=1)](https://visitcount.itsvg.in)
+</p>
 
