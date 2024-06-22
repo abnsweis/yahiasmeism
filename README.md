@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Yahya Semsem!
 
-![Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+my+GitHub+Profile)
+![Banner](https://github.com/yahiasmeism/yahiasmeism/raw/main/banner.png)
 
 ## 🌟 About Me
 I'm a passionate Flutter developer and Laravel enthusiast with a keen interest in programming and technology. I love building applications that solve real-world problems and continuously strive to improve my skills.
@@ -39,5 +39,8 @@ I write about bird health and more on my blog [Bird Care Corner](link-to-blog).
 
 ---
 
+<div align="center">
+  <img src="https://github.com/yahiasmeism/yahiasmeism/raw/main/wave.svg" width="100%" alt="Wave" />
+</div>
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let's create something amazing together!
