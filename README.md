@@ -6,9 +6,9 @@
 I'm a passionate Flutter developer and Laravel enthusiast with a keen interest in programming and technology. I love building applications that solve real-world problems and continuously strive to improve my skills.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?yahiasmeism&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yahiasmeism&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahiasmeism&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahiasmeism&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 🛠️ Technologies & Tools
@@ -51,11 +51,11 @@ I write about bird health and more on my blog [Bird Care Corner](link-to-blog).
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=your-github-username.visitor-badge" alt="Visitors" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=yahiasmeism.visitor-badge" alt="Visitors" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/your-github-username/your-github-username/raw/main/wave.svg" width="100%" alt="Wave" />
+  <img src="https://github.com/yahiasmeism/yahiasmeism/raw/main/wave.svg" width="100%" alt="Wave" />
 </p>
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let's create something amazing together!
